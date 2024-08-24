@@ -1,5 +1,5 @@
 #include <BlueDisplay.h>
-#include <CurveFitting.h>
+
 
 #define NUM_POINTS 6
 
